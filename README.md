@@ -153,7 +153,10 @@
   - 분류: `오프라인`, `대회`, `기술일반`
   - 주최: BDIA
   - 접수: 09. 25(월) ~ 11. 01(수)
-
+- __[코드잇 스프린트 프론트엔드 트랙 3기 부트캠프](https://sprint.codeit.kr/)__
+  - 분휴: `온라인`,`오프라인`, `무료`, `교육`, `프론트엔드`, `부트캠프`
+  - 주최: 코드잇 codeit
+  - 접수: 10. 12 (목) ~ 11. 05 (일)
 - __[네이버클라우드 퇴근길 테크밋업 <Technical Writing의 모든 것>](https://festa.io/events/4125)__
   - 분류: `오프라인`, `모임`, `기술일반`
   - 주최: 네이버 클라우드 플랫폼
@@ -340,6 +343,7 @@
 | 알고리즘 캠프 | [Homepage](https://algorithmcamp.oopy.io/) |
 | SW사관학교 정글(카이스트) | [Homepage](https://swjungle.net/) |
 | 크래프톤 정글 | [Homepage](https://jungle.krafton.com/) |
+| 코드잇 스프린트 | [Homepage](https://sprint.codeit.kr/) |
 | 네이버 부스트캠프 | [Homepage](https://boostcamp.connect.or.kr/) |
 | 42 SEOUL | [Homepage](https://42seoul.kr/) |
 | 카카오 테크 캠퍼스 | [Homepage](https://www.kakaotechcampus.com/user/index.do/) |
