@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-112-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-113-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -127,27 +127,6 @@
 
 <br />
 
-## 23년 10월
-- __[학교안전사고 데이터분석 활용 경진대회](https://www.xn--289axkt9l0mao04fs9c7wrl7hfxc.com/summary/summary.php)__
-  - 분류: `오프라인`, `커뮤니티`, `기술일반`
-  - 주최: 교육부
-  - 일시: 08. 21(월) ~ 10. 31(화)
-
-- __[Next.js Conf](https://nextjs.org/conf)__
-  - 분류: `온라인`, `오프라인`, `프론트엔드`, `컨퍼런스`, `기술일반`
-  - 주최: Vercel
-  - 일시: 08. 21(월) ~ 10. 31(화)
-- __[임팩트캠퍼스 IT서비스 공모전](https://www.2023impactcontest-ic.com/)__
-  - 분류: `오프라인`, `무료`, `공모전`
-  - 주최: Root Impace, impact.campus
-  - 일시: 09. 25(월) ~ 10. 31(화)
-- __[2023 ABB Hackathon](https://festa.io/events/4177)__
-  - 분류: `오프라인`, `무료`, `대회`, `AI`, `보안`
-  - 주최: 대구광역시
-  - 접수: 10. 17(화) ~ 10. 31(화)
-
-<br />
-
 ## 23년 11월
 - __[2023 BDIA Dev Contest](https://www.wanted.co.kr/events/2023_BDIA)__
   - 분류: `오프라인`, `대회`, `기술일반`
@@ -181,6 +160,10 @@
   - 분류: `오프라인`, `온라인`, `무료`, `AI`
   - 주최: 구름
   - 접수: 10. 27(금) ~ 11. 03(월)
+- __[2023 코드잇 스프린트 프론트엔드 트랙 3기 부트캠트](https://sprint.codeit.kr/)__
+   - 분류: `온라인`, `오프라인`, `무료`, `교육`, `프론트엔드`
+   - 주최: 코드잇 codeit
+   - 접수: 10. 12(목) ~ 11. 05(일)
 - __[SK telecom FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
   - 분류: `오프라인`, `무료`, `교육`, `AI`
   - 주최: SKT
@@ -237,6 +220,10 @@
   - 분류: `오프라인`, `무료`, `교육`, `벡엔드`, `프론트엔드`
   - 주최: 지니공공아카데미
   - 접수: 10. 31(화) ~ 11. 14(화)
+- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/297044308/)__
+  - 분류: `오프라인`, `무료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 11. 01(수) ~ 11. 14(화)
 - __[SDC23 Korea](https://www.sdc-korea.com/)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 삼성전자
@@ -269,6 +256,14 @@
   - 분류: `온라인`, `오프라인`, `무료`, `앱`
   - 주최: 스나이퍼팩토리
   - 일시: 09. 18(월) ~ 11. 17(금)
+- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/awskrug/events/297065221/)__
+  - 분류: `오프라인`, `무료`, `모임`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 11. 01(수) ~ 11. 20(월)
+- __[[Cochl AI Talk] AI 프로덕트의 탄생: 기술에서 제품까지](https://festa.io/events/4103)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: Cochl
+  - 접수: 11. 01(수) ~ 11. 20(월)
 - __[Code Challenge For AI Platform Backend](https://code-challenge.elice.io/tracks/4152/promotion)__
   - 분류: `온라인`, `무료`, `대회`, `백엔드`
   - 주최: 엘리스
@@ -352,6 +347,7 @@
 | 우아한테크코스 | [Homepage](https://woowacourse.github.io) |
 | 우아한테크캠프 | [Homepage](https://techblog.woowahan.com/?s=우아한테크캠프) |
 | Kernel360 | [Homepage](https://kernel360.co.kr/) |
+| 코드잇 스프린트 | [Homepage](https://sprint.codeit.kr/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -590,6 +586,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@junhopportunity"><img src="https://avatars.githubusercontent.com/u/89464762?v=4?s=100" width="100px;" alt="JunHo Kim"/><br /><sub><b>JunHo Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JunhOpportunity" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/0525hhgus"><img src="https://avatars.githubusercontent.com/u/47289574?v=4?s=100" width="100px;" alt="Hyeonseo Yun"/><br /><sub><b>Hyeonseo Yun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=0525hhgus" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://qiita.com/Dreamwalker"><img src="https://avatars.githubusercontent.com/u/19484515?v=4?s=100" width="100px;" alt="Dreamwalker"/><br /><sub><b>Dreamwalker</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JAICHANGPARK" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://yenyen31.tistory.com/"><img src="https://avatars.githubusercontent.com/u/82165728?v=4?s=100" width="100px;" alt="Yen31"/><br /><sub><b>Yen31</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yenyen31" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
